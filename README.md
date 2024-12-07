@@ -2,7 +2,10 @@
 - 👀 I’m interested in Front-End Development, DevOps , Linux, Databases,APIs
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on anything related to front-end currently
-- 📫 How to reach me Twitter:-https://x.com/RaghavVa108 ,Mastadon:-https://mastodon.social/@RexyBoi77
+- 📫 How to reach me ?
+  Twitter:-https://x.com/RaghavVa108 
+  Mastadon:-https://mastodon.social/@RexyBoi77
+  Linkedin:-https://www.linkedin.com/in/raghav-vash/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Guy who created Javascript is also the co-founder of Mozilla Corporation as well as Brave Browser !
 
