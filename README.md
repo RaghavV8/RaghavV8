@@ -38,9 +38,6 @@
 
 <table>
   <tr>
-    <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=RaghavV8&show_icons=true&count_private=true&theme=merko" alt="GitHub İstatistikleri" />
-    </td>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://emoji.gg/emoji/1261-hackerbongocat">
         <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="300" title="HackerBongoCat">
       </a>
@@ -50,16 +47,13 @@
 
 <br clear="both"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavV8&layout=compact&theme=merko" alt="En Çok Kullanılan Diller" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaghavV8&theme=merko" alt="GitHub Streak" />
 
-## GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaghavV8" alt="GitHub Trophies" />
-</div>
-
-## GitHub Activity Graph
-<div align="center">
+  <div >
+<strong>GitHub Activity Graph</strong>
+  </div>
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavV8&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 </div>
