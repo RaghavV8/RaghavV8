@@ -1,6 +1,6 @@
 # Hello 👋, I'm Raghav Vashistha
 
-🌱 I’m currently learning **TypeScript**  
+🌱 I’m currently learning **NextJS & Framer-Motion**  
 👯 I’m looking to collaborate on **Full Stack & Machine Learning projects**  
 📫 How to reach me: **rvashistha.23@gmail.com**  
 ⚡ Fun fact: The creator of JavaScript also co-founded Mozilla and Brave  
